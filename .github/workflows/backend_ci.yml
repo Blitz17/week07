@@ -1,5 +1,5 @@
 # week07/.github/workflows/backend_ci.yml
-# Change to show code for this repository (added credentials and login server as secrets)
+# Changes to show code for this repository (added credentials and login server as secrets)
 name: Backend CI - Test, Build and Push Images to ACR
 
 # Trigger the workflow on pushes to the 'main' branch
